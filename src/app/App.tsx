@@ -19,7 +19,7 @@ import imgMarketAnalysis from "../imports/Screenshot_2026-06-19_184341.png";
 import imgWeeklyWrapup from "../imports/Screenshot_2026-06-19_184350.png";
 
 // ─── Data ────────────────────────────────────────────────────────────────────
-export const statsData = [
+const statsData = [
   { n: "2+", label: "Years designing" },
   { n: "11+", label: "Assets shipped" },
   { n: "3", label: "Clients worked with" },
