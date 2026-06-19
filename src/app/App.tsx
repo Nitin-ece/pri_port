@@ -87,16 +87,7 @@ const projects = [
     image: imgFinstreetClock,
     accent: "#052a2e",
   },
-  {
-    id: 7,
-    group: "FINSTREET",
-    title: "FINSTREET'26 — Event Poster",
-    description: "\"Profit Over People\" — thought-provoking event identity with editorial dark-and-green treatment",
-    tag: "Event Poster",
-    aspect: "tall",
-    image: imgFinstreetEvent,
-    accent: "#1a1a1a",
-  },
+
   {
     id: 8,
     group: "UH Tech",
